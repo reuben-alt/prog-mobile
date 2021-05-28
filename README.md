@@ -1,4 +1,4 @@
-## Descreption
+## Description
 un projet de 3A, Développement d'une application mobile avec Android studio.
 
 ## Features
@@ -27,10 +27,10 @@ l'application a trois activities:
 
 
 <p >
-  <img src="https://github.com/sambaahm/projet_ouldsamba/blob/master/Screenshot%20(454).png" width="150" >
-  <img src="https://github.com/sambaahm/projet_ouldsamba/blob/master/Screenshot%20(448).png" width="150" >
-  <img src="https://github.com/sambaahm/projet_ouldsamba/blob/master/Screenshot%20(449).png" width="150" >
-  <img src="https://github.com/sambaahm/projet_ouldsamba/blob/master/Screenshot%20(450).png" width="150" >
-  <img src="https://github.com/sambaahm/projet_ouldsamba/blob/master/Screenshot%20(453).png" width="150" >
+  <img src="https://github.com/reuben-alt/prog-mobile/blob/master/Screenshot%20(454).png" width="150" >
+  <img src="https://github.com/reuben-alt/prog-mobile/blob/master/Screenshot%20(448).png" width="150" >
+  <img src="https://github.com/reuben-alt/prog-mobile/blob/master/Screenshot%20(449).png" width="150" >
+  <img src="https://github.com/reuben-alt/prog-mobile/blob/master/Screenshot%20(450).png" width="150" >
+  <img src="https://github.com/reuben-alt/prog-mobile/blob/master/Screenshot%20(453).png" width="150" >
 </p>
 
