@@ -1,21 +1,21 @@
 ## Description
-un projet de 3A, Développement d'une application mobile avec Android studio.
+Projet de 3A, Développement d'une application mobile avec Android studio.
 
 ## Features
 
-l'application a trois activities:
+L'application a trois activities:
 - la première qui permet de visualiser la page d'accueil avec un button pour accéder à la liste.
 - la deuxième sur laquel on affiche la liste des personnages de la série "Rick and Morty".
 - la troisième activity sur laquelle on présente 3 détails supplémentaires sur les caractères ainsi qu'un button qui est Censé produire une notification.
 
-### voici les consignes respectées:
+### Voici les consignes respectées:
 
 - Ecran avec une liste d’éléments.
 - Ecran avec quelques détails d’un élément.
 - Appel WebService à une API Rest.
 - Stockage de données en cache.
 
-### les plus:
+### Les plus:
 
 - Ecran de lancement
 - app icon 
